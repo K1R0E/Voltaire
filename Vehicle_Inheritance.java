@@ -64,7 +64,7 @@ class SportsCar extends Car {
 }
 
 
-public class Vehicleee {
+public class Vehicle_Inheritance {
     public static void main(String[] args) {
         SportsCar sportsCar = new SportsCar("Ferrari", 320, 2, true);
         sportsCar.start();
