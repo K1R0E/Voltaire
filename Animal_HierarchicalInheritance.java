@@ -101,7 +101,7 @@ class Eagle extends Bird {
 }
 
 
-public class HierarchicalInheritance {
+public class Animal_HierarchicalInheritance {
     public static void main(String[] args) {
         Dog dog = new Dog("Buddy", 5, "Golden", "Golden Retriever");
         dog.eat();
